@@ -6,6 +6,7 @@ function Button({name}){
         <div >
             <button>  {name}</button>
              <p>this is the new code i am adding</p>
+             <p>this is the code present in feature branch button</p>
         </div>
     )
 }
